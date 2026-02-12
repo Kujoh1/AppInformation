@@ -1,0 +1,3 @@
+# Disallow all crawlers from indexing this site (legal/support pages only)
+User-agent: *
+Disallow: /
